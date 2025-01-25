@@ -5,7 +5,7 @@ The Blender plugin supports the construction of three LumosX marker types: "Barc
 ![Plugin UI](blenderPlugin.jpg)
 
 To use this plugin, find the version of Blender (this example uses version 4.2), and place the file `__init__.py` under path:
-`/Applications/Blender.app/Contents/Resources/4.2/scripts/addons_core/lumosX_generator`
+`/Applications/Blender.app/Contents/Resources/4.2/scripts/addons_core/lumosX_generator`.
 Use it as other regular plugins.
 
 
