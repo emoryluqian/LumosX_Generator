@@ -9,4 +9,6 @@ To use this plugin, find the version of Blender (this example uses version 4.2),
 Use it as other regular plugins.
 
 
+Please refer to the paper [**LumosX: 3D Printed Anisotropic Light-Transfer**](URL) for more details.
+
 *Important Note:* This version works for most cases, but it's possible to encounter some issues. The author is working on improving and upgrading to a better version. 
